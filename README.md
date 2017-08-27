@@ -1,2 +1,2 @@
-# hng-php-task
-my first repo
+# myrepo
+creating first git repo
